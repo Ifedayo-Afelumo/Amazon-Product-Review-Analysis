@@ -21,7 +21,6 @@ The primary source of data used here is the product and customer review data fro
       1. Data manipulation
       2. Data Munching
 - Pivot Tables in Excel
-- MS Power Point (For Presentation)
 
   ### Data Cleaning and Preparation
 
